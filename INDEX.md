@@ -6,6 +6,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-08-22 | [Download](https://github.com/17821201724/emagzines/releases/download/te-20260822/20260822-The-Economist.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/te-20260822/20260822-The-Economist.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/te-20260822) |
 | 2026-08-15 | [Download](https://github.com/17821201724/emagzines/releases/download/te-20260815/20260815-The-Economist.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/te-20260815/20260815-The-Economist.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/te-20260815) |
 
 ## The New Yorker Magazine
@@ -20,4 +21,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | --- | --- | --- | --- |
 | 2026-08-17 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20260817) |
 
-_Total issues: 3._
+_Total issues: 4._
