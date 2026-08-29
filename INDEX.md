@@ -20,6 +20,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-09-07 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260907/20260907-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260907/20260907-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20260907) |
 | 2026-08-17 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20260817) |
 
-_Total issues: 5._
+_Total issues: 6._
