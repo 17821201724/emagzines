@@ -31,6 +31,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-11-23 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261123/20261123-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261123/20261123-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20261123) |
 | 2026-11-09 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261109/20261109-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261109/20261109-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20261109) |
 | 2026-10-26 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261026/20261026-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261026/20261026-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20261026) |
 | 2026-10-12 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261012/20261012-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20261012/20261012-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20261012) |
@@ -38,4 +39,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | 2026-09-07 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260907/20260907-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260907/20260907-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20260907) |
 | 2026-08-17 | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.pdf) | [Download](https://github.com/17821201724/emagzines/releases/download/tm-20260817/20260817-TIME-Magazine.epub) | [View](https://github.com/17821201724/emagzines/releases/tag/tm-20260817) |
 
-_Total issues: 21._
+_Total issues: 22._
